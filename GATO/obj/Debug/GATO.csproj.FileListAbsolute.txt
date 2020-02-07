@@ -1,0 +1,18 @@
+C:\Users\altai\source\repos\GATO\GATO\bin\Debug\GATO.exe.config
+C:\Users\altai\source\repos\GATO\GATO\bin\Debug\GATO.exe
+C:\Users\altai\source\repos\GATO\GATO\bin\Debug\GATO.pdb
+C:\Users\altai\source\repos\GATO\GATO\obj\Debug\GATO.csprojAssemblyReference.cache
+C:\Users\altai\source\repos\GATO\GATO\obj\Debug\GATO.Form1.resources
+C:\Users\altai\source\repos\GATO\GATO\obj\Debug\GATO.Properties.Resources.resources
+C:\Users\altai\source\repos\GATO\GATO\obj\Debug\GATO.csproj.GenerateResource.cache
+C:\Users\altai\source\repos\GATO\GATO\obj\Debug\GATO.exe
+C:\Users\altai\source\repos\GATO\GATO\obj\Debug\GATO.pdb
+C:\Users\altai\OneDrive\Escritorio\Visual Studio\GATO\GATO\bin\Debug\GATO.exe.config
+C:\Users\altai\OneDrive\Escritorio\Visual Studio\GATO\GATO\bin\Debug\GATO.exe
+C:\Users\altai\OneDrive\Escritorio\Visual Studio\GATO\GATO\bin\Debug\GATO.pdb
+C:\Users\altai\OneDrive\Escritorio\Visual Studio\GATO\GATO\obj\Debug\GATO.csprojAssemblyReference.cache
+C:\Users\altai\OneDrive\Escritorio\Visual Studio\GATO\GATO\obj\Debug\GATO.Form1.resources
+C:\Users\altai\OneDrive\Escritorio\Visual Studio\GATO\GATO\obj\Debug\GATO.Properties.Resources.resources
+C:\Users\altai\OneDrive\Escritorio\Visual Studio\GATO\GATO\obj\Debug\GATO.csproj.GenerateResource.cache
+C:\Users\altai\OneDrive\Escritorio\Visual Studio\GATO\GATO\obj\Debug\GATO.exe
+C:\Users\altai\OneDrive\Escritorio\Visual Studio\GATO\GATO\obj\Debug\GATO.pdb
